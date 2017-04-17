@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COMP1040 Assignment 2
 Semester 2, 2016
 
@@ -131,3 +132,6 @@ someone or somewhere on the web, you must make a note (e.g., in the
 code comments or a NOTES.md file) as to the nature of that help.
 
 [AHP]: http://www.anu.edu.au/students/program-administration/assessments-exams/academic-honesty-plagiarism
+=======
+# traffic-accident-map
+>>>>>>> 71ab9c872ac45843ce8b7ae67d1e3f2b3208b940
